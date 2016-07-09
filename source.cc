@@ -2,7 +2,7 @@
 
 void showQuote()
 {
-    ifstream fi("data.dat",ios::in|ios::app);
+    ifstream fi(".data.dat",ios::in|ios::app);
     fi.seekg(0,ios::beg);
     char word[200];
     //skipping multiple quotations in the data.dat file
@@ -20,7 +20,7 @@ void showQuote()
 
 int main()
 {
-    ofstream fo("rawdata.dat",ios::out|ios::trunc);
+    ofstream fo(".rawdata.dat",ios::out|ios::trunc);
 
     notify_init("Your Succour");
     
