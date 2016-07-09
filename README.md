@@ -3,7 +3,7 @@
 
 Displays famous quotations after every 15 minutes on your Ubuntu desktop. (Requires active internet connection)
 
-![Your-Succour-Screenshot](https://www.dropbox.com/s/kaavzldhpci6oyo/Screenshot%20from%202016-07-09%2015-04-14.png)
+![Your-Succour-Screenshot](https://www.dropbox.com/s/kaavzldhpci6oyo/Screenshot%20from%202016-07-09%2015-04-14.png?dl=0)
 
 ### Download the binary release
 [Download Your-Succour](https://github.com/dileepsankhla/Your-Succour/releases/download/Your-Succour/Your_Succour)
