@@ -1,9 +1,8 @@
 # Your-Succour
-[![Build Status](https://travis-ci.org/dileepsankhla/Your-Succour.svg?branch=master)](https://travis-ci.org/dileepsankhla/Your-succour)
 
 Displays famous quotations after every 15 minutes on your Ubuntu desktop. (Requires active internet connection)
 
-![Your-Succour-Screenshot](https://www.dropbox.com/s/kaavzldhpci6oyo/Screenshot%20from%202016-07-09%2015-04-14.png?dl=0)
+![Your-Succour-Screenshot](https://cloud.githubusercontent.com/assets/12946753/16707486/3eff8012-45ed-11e6-8452-a8a97edf4c4d.png)
 
 ### Download the binary release
 [Download Your-Succour](https://github.com/dileepsankhla/Your-Succour/releases/download/Your-Succour/Your_Succour)
