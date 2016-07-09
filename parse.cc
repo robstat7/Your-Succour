@@ -1,8 +1,8 @@
 #include"header.hpp"
 void parse()
 {
-    fstream fraw("rawdata.dat",ios::in|ios::out);
-    ofstream fp("data.dat");
+    fstream fraw(".rawdata.dat",ios::in|ios::out);
+    ofstream fp(".data.dat");
     char word[10000];
     fraw.seekg(5500,ios::beg);
 
