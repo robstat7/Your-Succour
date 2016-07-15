@@ -24,14 +24,16 @@ int main()
 
     notify_init("Your Succour");
     
-    int counter=1;
+    int counter;
 
     while(true)
     {
+        srand(time(0));
+        counter=rand()%300+2;
 	    try
 	    {
 	         // perparing session
-                 string url="http://quotelicious.com/new-quotes/page/"+to_string(++counter);
+                 string url="http://quotelicious.com/new-quotes/page/"+to_string(counter);
 	    	 URI uri(url);
 	         HTTPClientSession session(uri.getHost(), uri.getPort());        
 
