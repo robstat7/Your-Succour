@@ -4,12 +4,6 @@ Displays famous quotations after every 15 minutes on your Ubuntu desktop. (Requi
 
 ![Your-Succour-Screenshot](https://cloud.githubusercontent.com/assets/12946753/16707486/3eff8012-45ed-11e6-8452-a8a97edf4c4d.png)
 
-### Download the binary release
-[Download Your-Succour](https://github.com/dileepsankhla/Your-Succour/releases/download/Your-Succour/Your_Succour)
-
-### Add to startup applications in Ubuntu Unity
-Search for the program ```Startup Applications``` and add the path to executable into it.
-
 ## Building from the source
 
 ### Dependecies
