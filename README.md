@@ -6,7 +6,7 @@ Displays famous quotations after every 15 minutes on your Ubuntu desktop. (Requi
 
 ## Building from the source
 
-### Dependecies
+### Dependencies
 1. Install ```libnotify``` by using the command : ```sudo apt-get install libnotify-dev```
 2. Download the POCO library source from [here](http://pocoproject.org/releases/poco-1.7.3/poco-1.7.3.tar.gz)
 3. Follow the instructions for Unix/Linux installation being provided in the included README file
